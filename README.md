@@ -6,5 +6,5 @@ cargo run -- --mode=cache --times=X (Caches the price for a given time(seconds) 
 
 cargo run -- --mode=read (Reads the .txt file and prints it to the terminal)
 
-cargo run -- --mode=simulate (starts 5 client process simultaneously and calculates+prints the average of the average BTC/USDT price)
+cargo run -- --mode=simulate (starts 5 client processes simultaneously and calculates+prints the average of the average BTC/USDT price)
 
